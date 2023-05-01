@@ -1,0 +1,27 @@
+main {
+    background-color: #e3e6e4;
+}
+
+.copy-btn {
+    background-color: #eee;
+}
+
+.copy-btn:hover {
+    background-color: #fafafa;
+}
+
+.copied {
+    background-color: #fafafa;
+}
+
+.copied:hover {
+    background-color: #fafafa;
+}
+
+.text-section {
+    margin-left: 5px;
+}
+
+.hidden {
+    display: none;
+}
